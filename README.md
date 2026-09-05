@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/SolidJS-2C4F7C?style=for-the-badge&logo=solid&logoColor=white" alt="SolidJS" />
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
-  <img src="elysia-badge.svg" alt="Elysia" height="28" />
-  <img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white" alt="Hono" />
-  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" alt="Bun" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+  <a href="https://www.solidjs.com"><img src="https://img.shields.io/badge/SolidJS-2C4F7C?style=for-the-badge&logo=solid&logoColor=white" alt="SolidJS" /></a>
+  <a href="https://svelte.dev"><img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" /></a>
+  <a href="https://vitejs.dev"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" /></a>
+  <a href="https://elysiajs.com"><img src="elysia-badge.svg" alt="Elysia" height="28" /></a>
+  <a href="https://hono.dev"><img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white" alt="Hono" /></a>
+  <a href="https://bun.sh"><img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" alt="Bun" /></a>
 </p>
 
 ---
@@ -26,20 +26,23 @@ Saya pernah vibe coding, lalu dihina ai slop, saya diam. Dijelek-jelekkan, saya 
 
 ## Tech stack
 
+**Language** — TypeScript
+
 **Frontend** — SolidJS, Svelte
+
+**Build** — Vite
 
 **Backend** — Elysia, Hono
 
 **Runtime** — Bun
 
-**Build** — Vite
-
-**Language** — TypeScript
-
 ---
 
 <p align="center">
-  <img src="glass-stats.svg" alt="GitHub stats" width="760" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="glass-stats-dark.svg" />
+    <img src="glass-stats.svg" alt="GitHub stats" width="760" />
+  </picture>
 </p>
 
 <p align="center">

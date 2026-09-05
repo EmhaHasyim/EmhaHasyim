@@ -1,42 +1,39 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="252" viewBox="0 0 760 252" role="img" aria-label="GitHub stats glass">
   
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#F6F0FF"/>
-      <stop offset="0.55" stop-color="#F3F9FF"/>
-      <stop offset="1" stop-color="#FFF0F8"/>
-    </linearGradient>
-    <filter id="soft" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="26"/></filter>
-    <filter id="tile" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="6" stdDeviation="14" flood-color="#8B5CF6" flood-opacity="0.12"/></filter>
-    
-  <radialGradient id="b12060" cx="0.5" cy="0.5" r="0.5">
-    <stop offset="0" stop-color="#A78BFA" stop-opacity="0.5"/>
-    <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
-  </radialGradient>
-  <circle cx="120" cy="60" r="120" fill="url(#b12060)" filter="url(#soft)"/>
-    
-  <radialGradient id="b66070" cx="0.5" cy="0.5" r="0.5">
-    <stop offset="0" stop-color="#22D3EE" stop-opacity="0.4"/>
-    <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
-  </radialGradient>
-  <circle cx="660" cy="70" r="130" fill="url(#b66070)" filter="url(#soft)"/>
-    
-  <radialGradient id="b600205" cx="0.5" cy="0.5" r="0.5">
-    <stop offset="0" stop-color="#F472B6" stop-opacity="0.35"/>
-    <stop offset="1" stop-color="#F472B6" stop-opacity="0"/>
-  </radialGradient>
-  <circle cx="600" cy="205" r="110" fill="url(#b600205)" filter="url(#soft)"/>
-    
-  <radialGradient id="b150210" cx="0.5" cy="0.5" r="0.5">
-    <stop offset="0" stop-color="#8B5CF6" stop-opacity="0.22"/>
-    <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
-  </radialGradient>
-  <circle cx="150" cy="210" r="90" fill="url(#b150210)" filter="url(#soft)"/>
-  </defs>
+    <defs>
+      <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0" stop-color="#F6F0FF"/>
+        <stop offset="0.55" stop-color="#F3F9FF"/>
+        <stop offset="1" stop-color="#FFF0F8"/>
+      </linearGradient>
+      <filter id="soft" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="26"/></filter>
+      <filter id="tile" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="6" stdDeviation="14" flood-color="#8B5CF6" flood-opacity="0.12"/></filter>
+      
+    <radialGradient id="b12060" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#A78BFA" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+    </radialGradient>
+    <circle cx="120" cy="60" r="120" fill="url(#b12060)" filter="url(#soft)"/>
+    <radialGradient id="b66070" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <circle cx="660" cy="70" r="130" fill="url(#b66070)" filter="url(#soft)"/>
+    <radialGradient id="b600205" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#F472B6" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#F472B6" stop-opacity="0"/>
+    </radialGradient>
+    <circle cx="600" cy="205" r="110" fill="url(#b600205)" filter="url(#soft)"/>
+    <radialGradient id="b150210" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#8B5CF6" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <circle cx="150" cy="210" r="90" fill="url(#b150210)" filter="url(#soft)"/>
+    </defs>
   <rect x="0" y="0" width="760" height="252" rx="26" fill="url(#bg)"/>
-  <rect x="24" y="26" width="226" height="96" rx="18" fill="#FFFFFF" fill-opacity="0.55" stroke="#FFFFFF" stroke-opacity="0.95" stroke-width="1.2" filter="url(#tile)"/><text x="137" y="54" text-anchor="middle" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" letter-spacing="2" fill="#1F2328" fill-opacity="0.45">Commits</text><text x="137" y="92" text-anchor="middle" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="40" font-weight="700" fill="#1F2328">229</text><text x="137" y="110" text-anchor="middle" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12" fill="#1F2328" fill-opacity="0.55">all time</text><rect x="267" y="26" width="226" height="96" rx="18" fill="#FFFFFF" fill-opacity="0.55" stroke="#FFFFFF" stroke-opacity="0.95" stroke-width="1.2" filter="url(#tile)"/><text x="380" y="54" text-anchor="middle" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" letter-spacing="2" fill="#1F2328" fill-opacity="0.45">Pull requests</text><text x="380" y="92" text-anchor="middle" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="40" font-weight="700" fill="#1F2328">23</text><text x="380" y="110" text-anchor="middle" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12" fill="#1F2328" fill-opacity="0.55">opened</text><rect x="510" y="26" width="226" height="96" rx="18" fill="#FFFFFF" fill-opacity="0.55" stroke="#FFFFFF" stroke-opacity="0.95" stroke-width="1.2" filter="url(#tile)"/><text x="623" y="54" text-anchor="middle" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" letter-spacing="2" fill="#1F2328" fill-opacity="0.45">Longest streak</text><text x="623" y="92" text-anchor="middle" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="46" font-weight="700" fill="#1F2328">6</text><text x="623" y="110" text-anchor="middle" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12" fill="#1F2328" fill-opacity="0.55">consecutive days</text>
+  <rect x="24" y="26" width="226" height="96" rx="18" fill="#FFFFFF" fill-opacity="0.55" stroke="#FFFFFF" stroke-opacity="0.95" stroke-width="1.2" filter="url(#tile)"/><text x="137" y="54" text-anchor="middle" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" letter-spacing="2" fill="#1F2328" fill-opacity="0.45">Public repos</text><text x="137" y="92" text-anchor="middle" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="40" font-weight="700" fill="#1F2328">9</text><text x="137" y="110" text-anchor="middle" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12" fill="#1F2328" fill-opacity="0.55">owned</text><rect x="267" y="26" width="226" height="96" rx="18" fill="#FFFFFF" fill-opacity="0.55" stroke="#FFFFFF" stroke-opacity="0.95" stroke-width="1.2" filter="url(#tile)"/><text x="380" y="54" text-anchor="middle" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" letter-spacing="2" fill="#1F2328" fill-opacity="0.45">Total stars</text><text x="380" y="92" text-anchor="middle" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="40" font-weight="700" fill="#1F2328">1</text><text x="380" y="110" text-anchor="middle" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12" fill="#1F2328" fill-opacity="0.55">across repos</text><rect x="510" y="26" width="226" height="96" rx="18" fill="#FFFFFF" fill-opacity="0.55" stroke="#FFFFFF" stroke-opacity="0.95" stroke-width="1.2" filter="url(#tile)"/><text x="623" y="54" text-anchor="middle" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" letter-spacing="2" fill="#1F2328" fill-opacity="0.45">On GitHub since</text><text x="623" y="92" text-anchor="middle" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="40" font-weight="700" fill="#1F2328">2023</text><text x="623" y="110" text-anchor="middle" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12" fill="#1F2328" fill-opacity="0.55">Nov 2023</text>
   <rect x="24" y="136" width="712" height="106" rx="18" fill="#FFFFFF" fill-opacity="0.55" stroke="#FFFFFF" stroke-opacity="0.95" stroke-width="1.2" filter="url(#tile)"/>
   <text x="380" y="164" text-anchor="middle" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" letter-spacing="2" fill="#1F2328" fill-opacity="0.45">Most used languages</text>
-  <rect x="145" y="188" width="296" height="16" rx="8" fill="#3178C6"/><rect x="441" y="188" width="141" height="16" rx="0" fill="#DEA584"/><rect x="439" y="188" width="4" height="16" fill="#FFFFFF" fill-opacity="0.85"/><rect x="582" y="188" width="14" height="16" rx="0" fill="#FF3E00"/><rect x="580" y="188" width="4" height="16" fill="#FFFFFF" fill-opacity="0.85"/><rect x="596" y="188" width="19" height="16" rx="0" fill="#94A3B8"/><rect x="594" y="188" width="4" height="16" fill="#FFFFFF" fill-opacity="0.85"/>
-  <circle cx="197.64999999999998" cy="225" r="4" fill="#3178C6"/><text x="206.64999999999998" y="228" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" fill="#1F2328">TypeScript 63%</text><text x="295.95" y="228" text-anchor="middle" font-size="11" fill="#1F2328" fill-opacity="0.3" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif">·</text><circle cx="323.95" cy="225" r="4" fill="#DEA584"/><text x="332.95" y="228" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" fill="#1F2328">Rust 30%</text><text x="379.65" y="228" text-anchor="middle" font-size="11" fill="#1F2328" fill-opacity="0.3" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif">·</text><circle cx="407.65" cy="225" r="4" fill="#FF3E00"/><text x="416.65" y="228" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" fill="#1F2328">Svelte 3%</text><text x="470.45" y="228" text-anchor="middle" font-size="11" fill="#1F2328" fill-opacity="0.3" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif">·</text><circle cx="498.45" cy="225" r="4" fill="#94A3B8"/><text x="507.45" y="228" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" fill="#1F2328">Lainnya 4%</text>
+  <rect x="145" y="188" width="296" height="16" rx="8" fill="#3178C6"/><rect x="441" y="188" width="141" height="16" rx="0" fill="#DEA584"/><rect x="439" y="188" width="4" height="16" fill="#FFFFFF" fill-opacity="0.85"/><rect x="582" y="188" width="9" height="16" rx="0" fill="#FF3E00"/><rect x="580" y="188" width="4" height="16" fill="#FFFFFF" fill-opacity="0.85"/><rect x="591" y="188" width="24" height="16" rx="0" fill="#94A3B8"/><rect x="589" y="188" width="4" height="16" fill="#FFFFFF" fill-opacity="0.85"/>
+  <circle cx="197.64999999999998" cy="225" r="4" fill="#3178C6"/><text x="206.64999999999998" y="228" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" fill="#1F2328">TypeScript 63%</text><text x="295.95" y="228" text-anchor="middle" font-size="11" fill="#1F2328" fill-opacity="0.3" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif">·</text><circle cx="323.95" cy="225" r="4" fill="#DEA584"/><text x="332.95" y="228" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" fill="#1F2328">Rust 30%</text><text x="379.65" y="228" text-anchor="middle" font-size="11" fill="#1F2328" fill-opacity="0.3" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif">·</text><circle cx="407.65" cy="225" r="4" fill="#FF3E00"/><text x="416.65" y="228" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" fill="#1F2328">Svelte 2%</text><text x="470.45" y="228" text-anchor="middle" font-size="11" fill="#1F2328" fill-opacity="0.3" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif">·</text><circle cx="498.45" cy="225" r="4" fill="#94A3B8"/><text x="507.45" y="228" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" fill="#1F2328">Lainnya 5%</text>
 </svg>
