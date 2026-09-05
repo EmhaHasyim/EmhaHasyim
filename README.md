@@ -39,12 +39,7 @@ Saya pernah vibe coding, lalu dihina ai slop, saya diam. Dijelek-jelekkan, saya 
 ---
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=EmhaHasyim&custom_title=&include_all_commits=true&hide_rank=true&hide=stars,issues&show_icons=true&icon_color=06B6D4&text_color=1F2328&bg_color=ffffff&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=EmhaHasyim&layout=compact&langs_count=6&title_color=06B6D4&text_color=1F2328&bg_color=ffffff&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmhaHasyim&background=ffffff&hide_border=true&ring=8B5CF6&fire=EC4899&currStreakNum=EC4899&sideNums=1f2328&currStreakLabel=06B6D4&sideLabels=1f2328&dates=59636e" alt="GitHub streak" />
+  <img src="glass-stats.svg" alt="GitHub stats" width="760" />
 </p>
 
 <p align="center">
